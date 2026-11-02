@@ -1,0 +1,14 @@
+backend/
+components/
+data/
+experiments/
+research/
+services/
+tests/
+utils/
+__pycache__/
+*.py
+*.csv
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/

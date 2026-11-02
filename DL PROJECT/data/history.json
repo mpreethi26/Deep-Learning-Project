@@ -1,0 +1,207 @@
+[
+  {
+    "id": "c8956cef",
+    "timestamp": "2026-10-14 11:00:43",
+    "source_type": "PDF Document (Background Job)",
+    "filename": "A_Bidirectional_Encoder_Representations_from_Transformers_BERT_-_Based_Approach_for_Real-Time_News_Summarization_and_Sentiment_Detection.pdf",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "long",
+    "input_word_count": 4125,
+    "summary_word_count": 277,
+    "compression_ratio": 93.28,
+    "processing_time": 71.14,
+    "is_chunked": true,
+    "chunks_count": 5,
+    "summary": "**Executive Overview:**\n- Based Approach for Real-Time News Summarization and Sentiment Detection Gunjan Patil Computer Science and Engineering Ramrao Adik Institute of Technology Navi Mumbai, India chinmay.patil1009@gmail.com Dr. ss a system that leveraged lexical chains from WordNet to identify thematic clusters and pronoun resolution to improve coherence.\n\n**Detailed Section Synthesis:**\n- Based Approach for Real-Time News Summarization and Sentiment Detection Gunjan Patil Computer Science and Engineering Ramrao Adik Institute of Technology Navi Mumbai, India chinmay.patil1009@gmail.com Dr.\n\nss a system that leveraged lexical chains from WordNet to identify thematic clusters and incorporated pronoun resolution to improve coherence. TextRank was designed to provide fast summaries from over 250 live news sources by prioritizing computational speed [9]. TextRank traces the progression from early symbolic and extractive methods to the sophisticated Transformer-based architectures that define the current state-of-the-art [17].\n\na Transformer-based summarization model (BART) to label content as Positive, Negative, or Neutral. • Output renderer: The renderer compiles the final output, including summary, sentiment, and source link, and re- turns it to the frontend for user display. • Content Extraction: The backend constructs URLs or ac- cesses RSS feeds and initiates article retrieval using Selenium.\n\n: Total Time from query to output delivery. • Latency: Total time from query-to output delivery. • Sentiment Classification Metrics: Accuracy, Precision, Recall, and F1 Score against human-annotated labels. Table II shows the quantitative results which give detail information about various metrics and average value associated with it.\n\n,,- rizing scientific article, in IEEE Access, vol. 12, pp. 91252–91266, 2024, doi:10.1109/ACCESS.2024.3420163. [5] B. R. Prabhu and S. B. Ozer, “Abstractive summarization model for summa-rizing science article,” IEEE Access. vol. 12, p. 74–82. [3] L. Prasojo, R.",
+    "warnings": [
+      "Document has 18 segments. Subsampled to 5 salient sections to ensure complete synthesis within real-time latency budgets."
+    ]
+  },
+  {
+    "id": "1fc082d5",
+    "timestamp": "2026-10-13 14:09:10",
+    "source_type": "PDF Document (Background Job)",
+    "filename": "loan_application_report_APP-1789068891333.pdf",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "long",
+    "input_word_count": 478,
+    "summary_word_count": 167,
+    "compression_ratio": 65.06,
+    "processing_time": 41.79,
+    "is_chunked": true,
+    "chunks_count": 4,
+    "summary": "**Executive Overview:**\nCompleteness status is COMPLETE with 5 of 5 required slots satisfied. Cross-document verification coverage is 33.3% with 1 detected mismatch(es).\n\n**Detailed Section Synthesis:**\n: HUMAN_REVIEW with a detected risk score of 25.0/100 (MEDIUM risk level). Document completeness status is COMPLETE with 5 of 5 required slots satisfied. Cross-document verification coverage is 33.3% with 1 detected mismatch(es). High risk level during assessment (Risk Score: 25/100).\n\n& COMPLETENESS Total Uploaded: 5 Required Slots: 5 Slots Satisfied: 5 Missing Required: 0 Wrong Documents: 0- Overall Status: COMPLETE Filename Expected / Category Detected Type Status Confidence 1789068905298_01_KYC_Identi ty_Proof_ONE_INTENTIONAL_ WARNING.\n\n: 1 Medium Severity: 0 Category Severities Risk Factor Title Source Pts Recommendation Identity Risk HIGH Cross Document Mismatch: Applicant Name Agent 4 — Cross-Docu +25. 0 Verify conflicting applicant name between kyc_iden KEY FINDINGS • II High risk factors flagged by Agent 5 (1 high severity issue(s)).\n\nFINAL DECISION: HUMAN REVIEW Reason: High risk level during assessment (Risk Score: 25/100). Recommended Action: Perform underwriter investigation on highlighted risk factors.",
+    "warnings": [
+      "Generated summary (167 words) is slightly below target range (200–350 words) due to model inductive brevity bias."
+    ]
+  },
+  {
+    "id": "90ade302",
+    "timestamp": "2026-10-13 14:07:35",
+    "source_type": "PDF Document (Background Job)",
+    "filename": "loan_application_report_APP-1789068891333.pdf",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "medium",
+    "input_word_count": 478,
+    "summary_word_count": 56,
+    "compression_ratio": 88.28,
+    "processing_time": 44.71,
+    "is_chunked": true,
+    "chunks_count": 4,
+    "summary": "Completeness status is COMPLETE with 5 of 5 required slots satisfied. Cross-document verification coverage is 33.3% with 1 detected mismatch(es). High risk level during assessment (Risk Score: 25/100). & COMPLETENESS Total Uploaded: 5 Required Slots: 5 Slots Satisfied: 5 Missing Required: 0 Wrong Documents: 0- Overall Status: COMPLETES Filename Expected / Category Detected Type Status C.",
+    "warnings": [
+      "Generated summary (56 words) is slightly below target range (120–180 words) due to model inductive brevity bias."
+    ]
+  },
+  {
+    "id": "df8abacd",
+    "timestamp": "2026-10-13 14:06:10",
+    "source_type": "PDF Document (Background Job)",
+    "filename": "Choudam_Bharath_Reddy_Resume (17).pdf",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "medium",
+    "input_word_count": 387,
+    "summary_word_count": 22,
+    "compression_ratio": 94.32,
+    "processing_time": 27.11,
+    "is_chunked": true,
+    "chunks_count": 2,
+    "summary": "com — LinkedIn — GitHub PROFESSIONAL SUMMARY Aspiring Software Developer with strong interest in Artificial Intelligence, Machine Learning, Automation, and Software Development.",
+    "warnings": [
+      "Generated summary (22 words) is slightly below target range (120–180 words) due to model inductive brevity bias."
+    ]
+  },
+  {
+    "id": "6e4e79ec",
+    "timestamp": "2026-10-13 13:52:09",
+    "source_type": "PDF Document (Background Job)",
+    "filename": "A_Bidirectional_Encoder_Representations_from_Transformers_BERT_-_Based_Approach_for_Real-Time_News_Summarization_and_Sentiment_Detection.pdf",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "long",
+    "input_word_count": 4125,
+    "summary_word_count": 277,
+    "compression_ratio": 93.28,
+    "processing_time": 53.32,
+    "is_chunked": true,
+    "chunks_count": 5,
+    "summary": "**Executive Overview:**\n- Based Approach for Real-Time News Summarization and Sentiment Detection Gunjan Patil Computer Science and Engineering Ramrao Adik Institute of Technology Navi Mumbai, India chinmay.patil1009@gmail.com Dr. ss a system that leveraged lexical chains from WordNet to identify thematic clusters and pronoun resolution to improve coherence.\n\n**Detailed Section Synthesis:**\n- Based Approach for Real-Time News Summarization and Sentiment Detection Gunjan Patil Computer Science and Engineering Ramrao Adik Institute of Technology Navi Mumbai, India chinmay.patil1009@gmail.com Dr.\n\nss a system that leveraged lexical chains from WordNet to identify thematic clusters and incorporated pronoun resolution to improve coherence. TextRank was designed to provide fast summaries from over 250 live news sources by prioritizing computational speed [9]. TextRank traces the progression from early symbolic and extractive methods to the sophisticated Transformer-based architectures that define the current state-of-the-art [17].\n\na Transformer-based summarization model (BART) to label content as Positive, Negative, or Neutral. • Output renderer: The renderer compiles the final output, including summary, sentiment, and source link, and re- turns it to the frontend for user display. • Content Extraction: The backend constructs URLs or ac- cesses RSS feeds and initiates article retrieval using Selenium.\n\n: Total Time from query to output delivery. • Latency: Total time from query-to output delivery. • Sentiment Classification Metrics: Accuracy, Precision, Recall, and F1 Score against human-annotated labels. Table II shows the quantitative results which give detail information about various metrics and average value associated with it.\n\n,,- rizing scientific article, in IEEE Access, vol. 12, pp. 91252–91266, 2024, doi:10.1109/ACCESS.2024.3420163. [5] B. R. Prabhu and S. B. Ozer, “Abstractive summarization model for summa-rizing science article,” IEEE Access. vol. 12, p. 74–82. [3] L. Prasojo, R.",
+    "warnings": [
+      "Document has 18 segments. Subsampled to 5 salient sections to ensure complete synthesis within real-time latency budgets."
+    ]
+  },
+  {
+    "id": "ccc2f372",
+    "timestamp": "2026-10-13 13:50:45",
+    "source_type": "Pasted Text",
+    "filename": "N/A",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "medium",
+    "input_word_count": 26,
+    "summary_word_count": 23,
+    "compression_ratio": 11.54,
+    "processing_time": 13.42,
+    "is_chunked": false,
+    "chunks_count": 1,
+    "summary": "s and neural networks to understand context and generate coherent condensations. Artificial intelligence and deep learning transformer architectures have transformed natural language processing.",
+    "warnings": [
+      "Source document has 26 words, which is smaller than the requested preset target (120–180 words). Output length is bounded by source content to prevent hallucination or artificial filler."
+    ]
+  },
+  {
+    "id": "f578d5f8",
+    "timestamp": "2026-10-13 13:46:48",
+    "source_type": "Pasted Text (Background Job)",
+    "filename": "N/A",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "short",
+    "input_word_count": 39,
+    "summary_word_count": 13,
+    "compression_ratio": 66.67,
+    "processing_time": 12.63,
+    "is_chunked": false,
+    "chunks_count": 1,
+    "summary": "s and neural networks have fundamentally transformed computational linguistics and abstractive text summarization.",
+    "warnings": [
+      "Source document has 39 words, which is smaller than the requested preset target (60–100 words). Output length is bounded by source content to prevent hallucination or artificial filler."
+    ]
+  },
+  {
+    "id": "ba2d4e61",
+    "timestamp": "2026-10-13 00:49:48",
+    "source_type": "Pasted Text (Background Job)",
+    "filename": "N/A",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "short",
+    "input_word_count": 39,
+    "summary_word_count": 13,
+    "compression_ratio": 66.67,
+    "processing_time": 8.29,
+    "is_chunked": false,
+    "chunks_count": 1,
+    "summary": "s and neural networks have fundamentally transformed computational linguistics and abstractive text summarization.",
+    "warnings": [
+      "Source document has 39 words, which is smaller than the requested preset target (60–100 words). Output length is bounded by source content to prevent hallucination or artificial filler."
+    ]
+  },
+  {
+    "id": "315eb996",
+    "timestamp": "2026-10-13 00:42:15",
+    "source_type": "Pasted Text (Background Job)",
+    "filename": "N/A",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "model_key": "t5_small",
+    "length_mode": "short",
+    "input_word_count": 39,
+    "summary_word_count": 13,
+    "compression_ratio": 66.67,
+    "processing_time": 8.86,
+    "is_chunked": false,
+    "chunks_count": 1,
+    "summary": "s and neural networks have fundamentally transformed computational linguistics and abstractive text summarization.",
+    "warnings": [
+      "Source document has 39 words, which is smaller than the requested preset target (60–100 words). Output length is bounded by source content to prevent hallucination or artificial filler."
+    ]
+  },
+  {
+    "id": "83e2496e",
+    "timestamp": "2026-10-12 23:58:25",
+    "source_type": "PDF Document",
+    "filename": "A_Bidirectional_Encoder_Representations_from_Transformers_BERT_-_Based_Approach_for_Real-Time_News_Summarization_and_Sentiment_Detection.pdf",
+    "model_name": "BART (facebook/bart-large-cnn)",
+    "model_key": "bart",
+    "length_mode": "long",
+    "input_word_count": 4125,
+    "summary_word_count": 638,
+    "compression_ratio": 84.53,
+    "processing_time": 358.21,
+    "is_chunked": true,
+    "chunks_count": 9,
+    "summary": "**Executive Overview:**\nA Bidirectional Encoder Representations from Trans-Transformers (BERT) - Based Approach for Real-Time News Summarization and SentimentDetection. The system integrates the following components: real-time web scraping using Selenium for dynamiccontent retrieval and sentiment analysis. The platform is implemented using Python and the Flask webframework, and supports concurrent execution.\n\n**Detailed Section Synthesis:**\nA Bidirectional Encoder Representations from Trans-Transformers (BERT) - Based Approach for Real-Time News Summarization and SentimentDetection. Gunjan Patil, Ashwini Raorane, Sahil Jain, Varad Kotalwar. The paper was published by the Adik Institute of Technology in Mumbai, India. It is based on a BERT-based transformer model for abstractive summarization.\n\nThe system integrates the following components: real-time web scraping using Selenium for dynamiccontent retrieval and sentiment analysis. The platform is implemented using Python and the Flask webframework, and supports concurrent execution. Users can submit topical queries, upon which the system performs summarization, clas- siﬁes sentiment, and returns structured summaries linked to live news sources. The paper was presented at the 4th International Conference for Advancement in Technology (ICONAT) in Goa, India.\n\nThe advent of deep learning began a shift toward abstractive techniques capable of generating moresophisticated and human-like text. The introduction of the Transformer architecture, and pre-trained models like BERT, marked a signiﬁcant turning point for ATS, enabling unprecedented performance. Many studies now focus on creating hybrid architecturesto further enhance performance. The powerof these large language models was further demonstrated by a team who created a benchmark corpus of Urdu news articles.\n\nabstractive summarization with real-time data ingestion androbust sentiment analysis. The proposed system is an advanced artiﬁcial intelligencedriven news summarization platform. It is built as a robust, full-stack web application. The system allows users to input custom queries or select prede ﬁned topics of interest. It fetches relevant articles from the web using automated scraping and RSS feed integration. The platform generates concise, abstractive.summaries enriched with sentiment analysis that reﬂects the emotional tone of the news.\n\nThe proposed AI-powered news summarization system was evaluated across multiple dimensions including summary qual-ity, semantic similarity, sentiment classiﬁcation accuracy, and real-time responsiveness. The system was built on Flask, the backend supports Docker and is deployable to cloud platforms such as Heroku or Railway. A set of 9 diverse news articles covering topics such as AI, technology, and geopolitical events were selected and the system performed live scraping.\n\nThe suggested method does well in sentiment analysis and summaries. The system can analyze articles in almost real-time because it typically takes 5.4 seconds per article. Although sentiment analysis has a 92% accuracy. rate, it may overlook some sentiment cases, as indicated by its recall of 0.40. Authorized licensed use limited to: GITAM University. Restrictions apply. Downloaded on October 12,2026 at 06:09:34 UTC from IEEE Xplore.\n\nThe Proposed System is based on an abstractive model based on BERT. It is able to dynamicallyretrieve and process real-time news articles. TextRank and T5 Abstractive are unable to do this and work with pre-existing content. The suggested method is faster than the more computationally demanding T5 but slower than TextRank. The proposed system offers a superior balance between performance and utility. It combines web scraping, abstractive sum-marization using transformer models, and sentiment analysis.\n\nThe system demon-strated high accuracy in sentiment classiﬁcation and ﬂuency in summaries. The integration of parallel processing and dy-namic content extraction ensures responsiveness. The use of BERT-based models enables semantic understanding. Compared to traditional extractive methods, the proposed solution offers a more intelligent and personalized approach to news consumption. In conclusion, the system sets a foundation for intelligent, real-time news aggregation and summarization.\n\nThe study is published in IEEE Xplore. Restrictions apply. Authorized licensed use limited to: GITAM University. For confidential support, call the National Suicide Prevention Lifeline at 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org/. For confidential. support on suicide matters call the Samaritans on 08457 909090 or visit a local Samaritans branch or click here.",
+    "warnings": []
+  },
+  {
+    "id": "0ebec9dc",
+    "timestamp": "2026-10-12 23:26:20",
+    "source_type": "PDF Document",
+    "filename": "A_Bidirectional_Encoder_Representations_from_Transformers_BERT_-_Based_Approach_for_Real-Time_News_Summarization_and_Sentiment_Detection.pdf",
+    "model_name": "BART (facebook/bart-large-cnn)",
+    "model_key": "bart",
+    "length_mode": "detailed",
+    "input_word_count": 4125,
+    "summary_word_count": 821,
+    "compression_ratio": 80.1,
+    "processing_time": 474.03,
+    "is_chunked": true,
+    "chunks_count": 9,
+    "summary": "**Executive Overview:**\nA Bidirectional Encoder Representations from Trans-Transformers (BERT) - Based Approach for Real-Time News Summarization and SentimentDetection. The paper was published by the Adik Institute of Technology in Mumbai, India. It is based on a BERT-based transformer model for abstractive.summarization.\n\n**Detailed Section Synthesis:**\nA Bidirectional Encoder Representations from Trans-Transformers (BERT) - Based Approach for Real-Time News Summarization and SentimentDetection. Gunjan Patil, Ashwini Raorane, Sahil Jain, Varad Kotalwar. The paper was published by the Adik Institute of Technology in Mumbai, India. It is based on a BERT-based transformer model for abstractive.summarization, the system delivers coherent summaries while preserving the original context and. factual integrity. The system features parallel processing to optimize performance, enabling rapid content delivery from trusted news sources.\n\nThe system integrates the following components: real-time web scraping using Selenium for dynamiccontent retrieval and sentiment analysis. The platform is implemented using Python and the Flask webframework, and supports concurrent execution. Users can submit topical queries, upon which the system performs summarization, clas- siﬁes sentiment, and returns structured summaries linked to live news sources. The paper was presented at the 4th International Conference for Advancement in Technology (ICONAT) in Goa, India, on September 19-21, 2025. For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org.\n\nThe advent of deep learning began a shift toward abstractive techniques capable of generating moresophisticated and human-like text. The introduction of the Transformer architecture, and pre-trained models like BERT, marked a signiﬁcant turning point for ATS, enabling unprecedented performance. Many studies now focus on creating hybrid architecturesto further enhance performance. The powerof these large language models was further demonstrated by a team of researchers who created a benchmark corpus of Urdu news articles and successfully applied models like BART and GPT-3.5 for abstractive summarization and sentiment analysis.\n\nabstractive summarization with real-time data ingestion androbust sentiment analysis. The proposed system is an advanced artiﬁcial intelligencedriven news summarization platform. It is built as a robust, full-stack web application. The system allows users to input custom queries or select prede ﬁned topics of interest. It fetches relevant articles from the web using automated scraping and RSS feed integration. The platform generates concise, abstractive.summaries enriched with sentiment analysis that reﬂects the emotional tone of the news. These summaries are presented alongside direct links to the original sources.\n\nThe proposed AI-powered news summarization system was evaluated across multiple dimensions including summary qual-ity, semantic similarity, sentiment classiﬁcation accuracy, and real-time responsiveness. The system was built on Flask, the backend supports Docker and is deployable to cloud platforms such as Heroku or Railway. A set of 9 diverse news articles covering topics such as AI, technology, and geopolitical events were selected and the system performed live scraping, generated abstractive summarization using transformer models, and tagged sentiment in real time. The proposed system was assessed using both traditional and semanticevaluation metrics.\n\nThe suggested method does well in sentiment analysis and summaries. The system can analyze articles in almost real-time because it typically takes 5.4 seconds per article. Although sentiment analysis has a 92% accuracy. rate, it may overlook some sentiment cases, as indicated by its recall of 0.40. Authorized licensed use limited to: GITAM University. Restrictions apply. For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details. In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.\n\nThe Proposed System is based on an abstractive model based on BERT. It is able to dynamicallyretrieve and process real-time news articles. TextRank and T5 Abstractive are unable to do this and work with pre-existing content. The suggested method is faster than the more computationally demanding T5 but slower than TextRank. The proposed system offers a superior balance between performance and utility. It combines web scraping, abstractive sum-marization using transformer models, and sentiment analysis into a single uniﬁed platform. The system generates concise, concise, and emotional tone-rich summaries.\n\nThe system demon-strated high accuracy in sentiment classiﬁcation and ﬂuency in summaries. The integration of parallel processing and dy-namic content extraction ensures responsiveness. The use of BERT-based models enables semantic understanding. Compared to traditional extractive methods, the proposed solution offers a more intelligent and personalized approach to news consumption. In conclusion, the system sets a foundation for intelligent, real-time news aggregation and summarization. With further development, it has the potential to reshape how users engage with and understand global events, enabling a more emotionally aware media consump-tion.\n\nThe study is published in IEEE Xplore. Restrictions apply. Authorized licensed use limited to: GITAM University. For confidential support, call the National Suicide Prevention Lifeline at 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org/. For confidential. support on suicide matters call the Samaritans on 08457 909090 or visit a local Samaritans branch or click here for details. For. confidential support in the U.S., call the national suicide Prevention Line on 1- 800-273.-8255. For information on how to help people in the UK, visit the. Samaritans.org.",
+    "warnings": []
+  }
+]

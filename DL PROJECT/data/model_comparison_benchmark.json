@@ -1,0 +1,82 @@
+{
+  "distilbart": {
+    "success": true,
+    "summary": "In modern natural language processing, text summarization stands as one of the most intellectually demanding benchmarks . The BART model marries bidirectional encoder representations with autoregressive decoding . BART achieves remarkable ROUGE metrics when fine-tuned on news corpora like CNN/DailyMail, though real-world deployments must account for token length limits, inductive brevity biases, and domain adaptation challenges . BART was proposed by Lewis et al. in 2019 .",
+    "model_key": "distilbart",
+    "model_name": "DistilBART (sshleifer/distilbart-cnn-12-6)",
+    "length_mode": "medium",
+    "target_word_range": "150\u2013250 words",
+    "processing_time": 25.13,
+    "input_word_count": 175,
+    "input_char_count": 1451,
+    "input_token_count": 261,
+    "summary_word_count": 67,
+    "summary_char_count": 477,
+    "compression_ratio": 61.71,
+    "is_chunked": false,
+    "chunks_count": 1,
+    "device": "CPU (Optimized with torch.inference_mode)",
+    "warnings": [
+      "Source document has 175 words. Summary length is dynamically optimized to maintain high compression ratio without hallucination.",
+      "Generated summary (67 words) is slightly below target range (150\u2013250 words) due to model inductive brevity bias."
+    ],
+    "benchmark_elapsed_seconds": 25.13,
+    "rouge_metrics": {
+      "rouge1": {
+        "precision": 0.3182,
+        "recall": 0.3889,
+        "fmeasure": 0.35
+      },
+      "rouge2": {
+        "precision": 0.1077,
+        "recall": 0.1321,
+        "fmeasure": 0.1186
+      },
+      "rougeL": {
+        "precision": 0.2273,
+        "recall": 0.2778,
+        "fmeasure": 0.25
+      }
+    }
+  },
+  "t5_small": {
+    "success": true,
+    "summary": "ization identifies and stitches salient sentences directly from the raw document without grammatical alterations. In modern natural language processing, text summarization stands as one of most intellectually demanding benchmarks. The BART model, proposed by Lewis et al. in 2019, marries bidirectional encoder representations with autoregressive decoding.",
+    "model_key": "t5_small",
+    "model_name": "T5-small (Falconsai/text_summarization)",
+    "length_mode": "medium",
+    "target_word_range": "150\u2013250 words",
+    "processing_time": 14.54,
+    "input_word_count": 175,
+    "input_char_count": 1451,
+    "input_token_count": 308,
+    "summary_word_count": 46,
+    "summary_char_count": 356,
+    "compression_ratio": 73.71,
+    "is_chunked": false,
+    "chunks_count": 1,
+    "device": "CPU (Optimized with torch.inference_mode)",
+    "warnings": [
+      "Source document has 175 words. Summary length is dynamically optimized to maintain high compression ratio without hallucination.",
+      "Generated summary (46 words) is slightly below target range (150\u2013250 words) due to model inductive brevity bias."
+    ],
+    "benchmark_elapsed_seconds": 14.54,
+    "rouge_metrics": {
+      "rouge1": {
+        "precision": 0.3696,
+        "recall": 0.3148,
+        "fmeasure": 0.34
+      },
+      "rouge2": {
+        "precision": 0.1333,
+        "recall": 0.1132,
+        "fmeasure": 0.1224
+      },
+      "rougeL": {
+        "precision": 0.2391,
+        "recall": 0.2037,
+        "fmeasure": 0.22
+      }
+    }
+  }
+}
